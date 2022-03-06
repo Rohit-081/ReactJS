@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "../src/tutorial/3-conditional-rendering/setup/1-multiple-returns";
+import Setup from "../src/tutorial/12-memo-useMemo-useCallback/setup/index";
 function App() {
   return (
     <div className="container">
